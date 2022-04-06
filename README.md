@@ -1,3 +1,3 @@
 # odin-recipes
 My first project.
-Recipes page using html
+Recipe page using html
