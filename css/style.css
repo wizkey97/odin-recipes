@@ -1,26 +1,51 @@
 /* style.css */
 
-body{
-    background-color: lightgrey;
-    
-    
+ body,
+.recipesbody{
+    background-color: rgb(150, 150, 150);
+}
+
+.recipesbody {
+    border: 10px solid black;
+    margin: auto;
 }
 
 img {
     height: auto;
     width: 500px;
-    outline: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 10px solid black;
+    outline: auto;
 }
 
 .text {
     text-align: center;
+    
 }
 
 .mylist {
     display: inline-block;
     text-align: left;
+    
 }
+
+.title {
+
+    border: 5px solid black;
+    border-radius: 50%;
+    margin: 10px 850px 10px 850px;
+    background-color: black;
+    color: white;
+    outline: auto;
+
+}
+
+
+
+    
+    
+
+    
 
